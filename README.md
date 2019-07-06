@@ -6,3 +6,4 @@ A Daemon Process was created to keep a log and display the count of every mouse 
 ## Platform : Linux
 
 ## Result: 
+<img src="result.PNG">
